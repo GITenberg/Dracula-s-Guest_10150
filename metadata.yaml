@@ -1,0 +1,35 @@
+_repo: Dracula-s-Guest_10150
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stoker, Bram
+    alias: Stoker, Abraham
+    birthdate: 1847
+    deathdate: 1912
+    gutenberg_agent_id: '190'
+    url: http://www.gutenberg.org/2009/agents/190
+    wikipedia: http://en.wikipedia.org/wiki/Bram_Stoker
+description: Although Bram Stoker is best known for his world-famous novel Dracula,
+  he also wrote many shorter works on the strange and the macabre. Comprised of spine-chilling
+  tales published by Stoker's widow after his death, this collection demonstrates
+  the full range of Stoker's horror writing. -Amazon.com.
+gutenberg_bookshelf: Horror
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Horror tales'
+- !lcsh 'Short stories'
+- !lcsh 'Gothic fiction (Literary genre)'
+- GITenberg
+tableOfContents: Dracula's guest -- The judge's house -- The squaw -- The secret of
+  the growing gold -- The gipsy prophecy -- The coming of Abel Behenna -- The burial
+  of the rats -- A dream of red hands -- Crooken sands.
+title: Dracula's Guest
+url: http://www.gutenberg.org/ebooks/10150
