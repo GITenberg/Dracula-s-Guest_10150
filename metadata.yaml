@@ -1,5 +1,8 @@
 _repo: Dracula-s-Guest_10150
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stoker, Bram
@@ -13,6 +16,8 @@ description: Although Bram Stoker is best known for his world-famous novel Dracu
   he also wrote many shorter works on the strange and the macabre. Comprised of spine-chilling
   tales published by Stoker's widow after his death, this collection demonstrates
   the full range of Stoker's horror writing. -Amazon.com.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10150#Dracula-s-Guest
 gutenberg_bookshelf: Horror
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
